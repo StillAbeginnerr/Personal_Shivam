@@ -66,10 +66,10 @@
       }
     
       .experience__container > div{
-        width: 100%;
+        width: 95%;
         padding: 2.0rem 0.75rem;
         position: relative;
-        left: -3%;
+        left: -7.5%;
       }
 
 }
