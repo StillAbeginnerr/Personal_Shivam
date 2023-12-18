@@ -45,8 +45,8 @@ const Portfolio = () => {
           <h3>WalkingBookFairs.com : A Famous Bookstore Website</h3>
           <br></br>
           <div className='portfolio__item-cta'>
-          <a href='https://github.com/StillAbeginnerr/WeatherWeb' className='btn' target='_blank' rel="noreferrer">Github</a>
-          <a href='https://weather-web-omega.vercel.app/' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          <a href='https://github.com/StillAbeginnerr/WalkingBookfair' className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href='https://WalkingBookFairs.com' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
          
         </article>
