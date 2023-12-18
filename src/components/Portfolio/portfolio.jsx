@@ -30,7 +30,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG2} alt='image' />
           </div>
-           <h3>CryptoDashboard- Admin Dashboard for buying/Selling of Crypto</h3>
+           <h3>Crypto-Dashboard: Admin Dashboard for buying/Selling of Crypto Currency </h3>
            <div className='portfolio__item-cta'>
           <a href='https://github.com/StillAbeginnerr/Crypto-dashboard' className='btn' target='_blank' rel="noreferrer">Github</a>
           <a href='#' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
@@ -42,7 +42,7 @@ const Portfolio = () => {
             <img src={IMG3} alt='image' />
           </div>
       
-          <h3>WalkingBookFairs.com : A Famous Bookstore Website</h3>
+          <h3>WalkingBookFairs.com: A Famous Bookstore Client Website Appeared on various News Articles.</h3>
           <br></br>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/StillAbeginnerr/WalkingBookfair' className='btn' target='_blank' rel="noreferrer">Github</a>
