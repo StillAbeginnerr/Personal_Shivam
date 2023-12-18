@@ -39,7 +39,7 @@ const About = () => {
     </article>
 
   </div>
-<p>Hello! I'm a Web Developer skilled in React and Node.js, <br></br>specializing in crafting efficient RESTful APIs and optimizing databases. <br></br>As the ex-founder of Medilift, I bring an entrepreneurial spirit.<br></br> <br></br>Achievements include 1st place in MLH OpenSource Hackfest and 11th in Xiaomi Ode2Code 2.0. Currently mentoring for GSSoC'23, I'm committed to excellence and innovation.<br></br> <br></br>With 4+ freelance projects, I blend technical expertise with creative flair in illustration using Adobe Illustrator and Figma. Let's create impactful solutions!</p>
+<p>Hello! I'm a Web Developer skilled in React and Node.js, <br></br>specializing in crafting efficient RESTful APIs and optimizing databases. <br></br>As the ex-founder of Medilift, I bring an entrepreneurial spirit.<br></br> <br></br>Achievements include 1st place in MLH OpenSource Hackfest and 11th in Xiaomi Ode2Code 2.0. Currently mentoring for GSSoC'23, I'm committed to excellence and innovation.<br></br> <br></br>With 10+ freelance projects, I blend technical expertise with creative flair in illustration using Adobe Illustrator and Figma. Let's create impactful solutions!</p>
 <a href='#contact' className=' btn btn-primary' >Let's Talk</a>
 </div>
 
