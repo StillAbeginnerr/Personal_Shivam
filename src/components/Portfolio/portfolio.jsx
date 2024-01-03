@@ -4,6 +4,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/SafeNav.png';
 import IMG2 from '../../assets/crypto-dashboard.png'
 import IMG3 from '../../assets/img6.png';
+import IMG4 from '../../assets/WhatsApp Image 2024-01-03 at 10.21.44 PM.jpeg'
 
 const Portfolio = () => {
   return (
@@ -47,6 +48,19 @@ const Portfolio = () => {
           <div className='portfolio__item-cta'>
           <a href='https://github.com/StillAbeginnerr/WalkingBookfair' className='btn' target='_blank' rel="noreferrer">Github</a>
           <a href='https://WalkingBookFairs.com' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
+         
+        </article>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG4} alt='image' />
+          </div>
+      
+          <h3>Gmail To Whatsapp Notifier</h3>
+          <br></br>
+          <div className='portfolio__item-cta'>
+          <a href='https://github.com/StillAbeginnerr/gmail-to-whatsapp-notifier' className='btn' target='_blank' rel="noreferrer">Github</a>
+          <a href='https://github.com/StillAbeginnerr/gmail-to-whatsapp-notifier' className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
          
         </article>
