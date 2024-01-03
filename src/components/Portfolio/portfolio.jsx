@@ -4,7 +4,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/SafeNav.png';
 import IMG2 from '../../assets/crypto-dashboard.png'
 import IMG3 from '../../assets/img6.png';
-import IMG4 from '../../assets/WhatsApp Image 2024-01-03 at 10.21.44 PM.jpeg'
+import IMG5 from '../../assets/WhatsApp Image 2024-01-03 at 10.21.44 PM.jpeg'
 
 const Portfolio = () => {
   return (
@@ -53,7 +53,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG4} alt='image' />
+            {/* <img src={IMG5} alt='image' /> */}
           </div>
       
           <h3>Gmail To Whatsapp Notifier</h3>
